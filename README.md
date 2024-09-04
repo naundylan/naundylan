@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**naundylan/naundylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 - 🌱 I’m currently learning Hue University of Sciences.<br>- 👯 I’m looking to collaborate on github.<br>- 🤔 I’m looking for help with code<br>- 💬 Ask me about things that interest you <br>- 📫 How to reach me: naundylan@gmail.com<br>- 😄 Pronouns: Dylan<br>- ⚡ Fun fact: I can make you laugh out loud :))
 
@@ -32,4 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=naundylan&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
